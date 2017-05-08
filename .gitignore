@@ -1,0 +1,9 @@
+*.csv
+*.log
+*.pdf
+metastore_db
+ml-100k
+*.txt
+
+
+
