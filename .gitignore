@@ -3,7 +3,8 @@
 *.pdf
 metastore_db
 ml-100k
+ml-1m
 *.txt
-
+checkpoint
 
 
